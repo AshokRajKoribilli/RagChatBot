@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+# API Keys
+.env
+
+
+chroma_db/
+chrome_db/
+keyword.db
